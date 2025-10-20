@@ -1,0 +1,101 @@
+Transaction ID;Date;Category;Product Name
+10001;12/04/2025;Furniture;West Elm Coffee Table
+10002;17/01/2025;Home Appliances;Bosch Dishwasher
+10003;10/07/2025;Gaming;Logitech G Pro Mouse
+10004;18/01/2025;Clothing;North Face Jacket
+10005;13/06/2025;Home Appliances;iRobot Roomba
+10006;26/03/2025;Clothing;Adidas Ultraboost
+10007;26/08/2025;Furniture;IKEA Markus Chair
+10008;22/07/2025;Home Appliances;Instant Pot Duo
+10009;24/11/2024;Home Appliances;Philips Airfryer
+10010;29/09/2025;Furniture;IKEA Markus Chair
+10011;09/09/2025;Electronics;Sony WH-1000XM5
+10012;30/10/2024;Home Appliances;Bosch Dishwasher
+10013;09/11/2024;Gaming;Logitech G Pro Mouse
+10014;15/11/2024;Gaming;Logitech G Pro Mouse
+10015;07/10/2025;Gaming;Logitech G Pro Mouse
+10016;20/06/2025;Clothing;Zara T-Shirt
+10017;04/04/2025;Clothing;Adidas Ultraboost
+10018;26/08/2025;Clothing;Levi’s 501 Jeans
+10019;31/12/2024;Gaming;Xbox Series X
+10020;04/04/2025;Gaming;PlayStation 5
+10021;20/01/2025;Clothing;Adidas Ultraboost
+10022;07/11/2024;Furniture;La-Z-Boy Sofa
+10023;23/02/2025;Gaming;Razer BlackWidow Keyboard
+10024;09/01/2025;Home Appliances;Instant Pot Duo
+10025;11/04/2025;Electronics;iPad Pro
+10026;08/10/2025;Home Appliances;iRobot Roomba
+10027;07/10/2025;Home Appliances;Bosch Dishwasher
+10028;13/07/2025;Furniture;La-Z-Boy Sofa
+10029;28/05/2025;Furniture;IKEA Markus Chair
+10030;28/04/2025;Gaming;Razer BlackWidow Keyboard
+10031;02/04/2025;Home Appliances;Dyson V11 Vacuum
+10032;03/06/2025;Clothing;Adidas Ultraboost
+10033;16/03/2025;Furniture;West Elm Coffee Table
+10034;22/12/2024;Gaming;Razer BlackWidow Keyboard
+10035;25/04/2025;Home Appliances;LG Washing Machine
+10036;09/10/2025;Electronics;MacBook Air M3
+10037;02/05/2025;Furniture;West Elm Coffee Table
+10038;09/04/2025;Clothing;Adidas Ultraboost
+10039;20/03/2025;Gaming;Razer BlackWidow Keyboard
+10040;08/02/2025;Home Appliances;Bosch Dishwasher
+10041;01/06/2025;Home Appliances;Bosch Dishwasher
+10042;22/12/2024;Electronics;Apple Watch Series 9
+10043;08/05/2025;Home Appliances;Bosch Dishwasher
+10044;05/06/2025;Clothing;Levi’s 501 Jeans
+10045;23/08/2025;Gaming;Nintendo Switch OLED
+10046;03/07/2025;Furniture;La-Z-Boy Sofa
+10047;08/11/2024;Furniture;Ashley Recliner
+10048;15/10/2025;Gaming;Razer BlackWidow Keyboard
+10049;01/04/2025;Gaming;Xbox Series X
+10050;12/12/2024;Electronics;iPhone 14 Pro
+10051;01/08/2025;Clothing;Zara T-Shirt
+10052;12/02/2025;Clothing;Levi’s 501 Jeans
+10053;28/04/2025;Clothing;North Face Jacket
+10054;30/01/2025;Furniture;IKEA Markus Chair
+10055;02/05/2025;Furniture;Zinus Queen Bed Frame
+10056;08/06/2025;Clothing;Nike Air Force 1
+10057;29/07/2025;Gaming;Xbox Series X
+10058;10/02/2025;Electronics;iPad Pro
+10059;22/10/2024;Clothing;Levi’s 501 Jeans
+10060;23/11/2024;Gaming;PlayStation 5
+10061;24/11/2024;Home Appliances;Dyson V11 Vacuum
+10062;19/05/2025;Electronics;Samsung Galaxy S23
+10063;24/03/2025;Clothing;Levi’s 501 Jeans
+10064;26/01/2025;Furniture;Ashley Recliner
+10065;23/07/2025;Electronics;iPad Pro
+10066;01/10/2025;Gaming;Nintendo Switch OLED
+10067;13/03/2025;Clothing;Adidas Ultraboost
+10068;19/05/2025;Clothing;North Face Jacket
+10069;25/06/2025;Clothing;Nike Air Force 1
+10070;04/03/2025;Clothing;Zara T-Shirt
+10071;14/05/2025;Furniture;La-Z-Boy Sofa
+10072;11/01/2025;Furniture;IKEA Markus Chair
+10073;02/08/2025;Clothing;North Face Jacket
+10074;18/02/2025;Furniture;La-Z-Boy Sofa
+10075;04/06/2025;Gaming;Xbox Series X
+10076;29/05/2025;Home Appliances;LG Washing Machine
+10077;03/07/2025;Gaming;PlayStation 5
+10078;31/12/2024;Electronics;Apple Watch Series 9
+10079;04/04/2025;Clothing;Levi’s 501 Jeans
+10080;22/04/2025;Electronics;Sony WH-1000XM5
+10081;24/07/2025;Gaming;Razer BlackWidow Keyboard
+10082;11/06/2025;Gaming;PlayStation 5
+10083;26/07/2025;Clothing;Nike Air Force 1
+10084;04/01/2025;Furniture;West Elm Coffee Table
+10085;18/08/2025;Electronics;Samsung Galaxy S23
+10086;05/07/2025;Gaming;Razer BlackWidow Keyboard
+10087;27/08/2025;Furniture;West Elm Coffee Table
+10088;06/06/2025;Furniture;Zinus Queen Bed Frame
+10089;30/01/2025;Clothing;North Face Jacket
+10090;16/02/2025;Clothing;Zara T-Shirt
+10091;02/05/2025;Gaming;Nintendo Switch OLED
+10092;01/07/2025;Home Appliances;LG Washing Machine
+10093;25/05/2025;Furniture;Ashley Recliner
+10094;29/04/2025;Furniture;IKEA Markus Chair
+10095;10/02/2025;Gaming;Logitech G Pro Mouse
+10096;21/12/2024;Furniture;Ashley Recliner
+10097;18/06/2025;Furniture;Zinus Queen Bed Frame
+10098;29/03/2025;Clothing;North Face Jacket
+10099;21/02/2025;Electronics;Apple Watch Series 9
+10100;10/09/2025;Gaming;Nintendo Switch OLED
